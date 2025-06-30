@@ -1,3 +1,9 @@
+# RELEASE VERSION: 30th June 2025
+
+##### Zero-price item manual price change should update original salesPrice to prevent discount duplication <span class="ticket">ID-73</span>  
+ Fixed an issue where manually priced zero-price items caused discount duplication. The original sales price is now updated correctly to prevent this.  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 5th June 2025
   
 ##### Implement Public API Token Rate Limit <span class="ticket">RS-1610</span>  
