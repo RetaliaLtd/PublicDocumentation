@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th June 2025
 
+##### Add PO number to Receive goods column chooser so that GRN's can referenced against PO's <span class="ticket">ID-11</span>  
+ Added Purchase Order No to the Receive Goods overview grid  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### Remove Loyalty Points on the Receipt <span class="ticket">ID-13</span>  
  Fixed a bug where loyalty points were still being printed even when receipt setup>Show Loyalty was deselected  
   
