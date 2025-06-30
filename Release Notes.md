@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th June 2025
 
+##### Missing Columns in PDF Export: Vendor Address, Phone No, Required Date, and Manufacturer Item No (Receive Goods & PO) <span class="ticket">ID-42</span>  
+ Added Vendor Address, Phone No, Required Date and Manufacturer Item No to Receive Goods and PO PDF export  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 ##### POS Doesn't Create Record in SerialNumber.SerialNumber When Serial Number Does Not Exist <span class="ticket">ID-43</span>  
  Fixed a bug where serial number records are not created when they are added through the POS during a transaction  
   <span class="bug">Bug</span> <span class="service">POS</span>  
