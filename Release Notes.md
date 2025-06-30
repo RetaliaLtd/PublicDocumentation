@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th June 2025
 
+##### Imagine Is it possible to retain the column filters results in the PO template to the resulting exported  pdf <span class="ticket">ID-2</span>  
+ Purchase Order and Receive Goods column order is retained when exporting to PDF, please note not all columns are exported  
+  <span class="new">New Feature</span>  
+  
 ##### Imagine Vendor cost price is not being updated correctly when typing item barcode in lookup box when adding items to PO <span class="ticket">ID-3</span>  
  When adding items to purchase orders the cost price was not added to the grid when using the add item by barcode  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  
