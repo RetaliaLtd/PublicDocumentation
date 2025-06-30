@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th June 2025
 
+##### POS Doesn't Create Record in SerialNumber.SerialNumber When Serial Number Does Not Exist <span class="ticket">ID-43</span>  
+ Fixed a bug where serial number records are not created when they are added through the POS during a transaction  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 ##### Imagine UI Lite Rebrand <span class="ticket">ID-44</span>  
  Imagine has been rebranded to Retalia colour scheme  
   <span class="new">New Feature</span>  
