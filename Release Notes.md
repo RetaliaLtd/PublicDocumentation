@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th June 2025
 
+##### Imagine Vendor cost price is not being updated correctly when typing item barcode in lookup box when adding items to PO <span class="ticket">ID-3</span>  
+ When adding items to purchase orders the cost price was not added to the grid when using the add item by barcode  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Add PO number to Receive goods column chooser so that GRN's can referenced against PO's <span class="ticket">ID-11</span>  
  Added Purchase Order No to the Receive Goods overview grid  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  
