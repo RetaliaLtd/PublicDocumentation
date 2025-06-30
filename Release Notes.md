@@ -1,5 +1,11 @@
 # RELEASE VERSION: 30th June 2025
 
+##### Remove Loyalty Points on the Receipt <span class="ticket">ID-13</span>  
+ Fixed a bug where loyalty points were still being printed even when receipt setup>Show Loyalty was deselected  
+  
+ <div class="breaking-change"><p>This change requires a connector reboot for the changes to take effect.</p></div> 
+<span class="bug">Bug</span> <span class="service">Connector</span>  
+  
 ##### Missing Columns in PDF Export: Vendor Address, Phone No, Required Date, and Manufacturer Item No (Receive Goods & PO) <span class="ticket">ID-42</span>  
  Added Vendor Address, Phone No, Required Date and Manufacturer Item No to Receive Goods and PO PDF export  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  
