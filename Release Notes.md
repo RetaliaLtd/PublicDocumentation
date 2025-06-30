@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th June 2025
 
+##### Imagine UI Lite Rebrand <span class="ticket">ID-44</span>  
+ Imagine has been rebranded to Retalia colour scheme  
+  <span class="new">New Feature</span>  
+  
 ##### Zero-price item manual price change should update original salesPrice to prevent discount duplication <span class="ticket">ID-73</span>  
  Fixed an issue where manually priced zero-price items caused discount duplication. The original sales price is now updated correctly to prevent this.  
   <span class="bug">Bug</span> <span class="service">POS</span>  
