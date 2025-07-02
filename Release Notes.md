@@ -1,3 +1,9 @@
+# RELEASE VERSION: 2nd July 2025
+
+##### Customer display not working since domain change <span class="ticket">ID-96</span>  
+ Fixed customer display to work with Retalia Domain  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 30th June 2025
 
 ##### Imagine Is it possible to retain the column filters results in the PO template to the resulting exported  pdf <span class="ticket">ID-2</span>  
