@@ -1,3 +1,9 @@
+# RELEASE VERSION: 16th July 2025
+
+##### Disable display of inactive users in Portal/Users/User list <span class="ticket">ID-105</span>  
+ Inactive users in the portal are now removed  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 2nd July 2025
 
 ##### Customer display not working since domain change <span class="ticket">ID-96</span>  
