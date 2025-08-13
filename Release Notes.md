@@ -1,5 +1,9 @@
 # RELEASE VERSION: 13th August 2025
 
+##### Cost prices are wrong when adding items to PO mainly after modifying them in Vendor management <span class="ticket">ID-126</span>  
+ Fixed a bug within purchase orders where cost price didn't reflect in the grid when it was originally set in vendor management  
+  <span class="bug">Bug</span>  
+  
 ##### Required date on Purchase orders issue has re-emerged as this was workin previously but now broke. <span class="ticket">ID-122</span>  
  Fixed a bug which caused the required date to show incorrect on Purchase orders  
   <span class="bug">Bug</span>  
