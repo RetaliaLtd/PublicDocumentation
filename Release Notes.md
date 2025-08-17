@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th August 2025
+
+##### Analysis report not showing the sales rep from the transaction line <span class="ticket">ID-114</span>  
+ Fixed an issue within the analysis reports which caused the sales report to show the clerk of the transaction and not the sales rep from the transaction line  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 13th August 2025
 
 ##### Cost prices are wrong when adding items to PO mainly after modifying them in Vendor management <span class="ticket">ID-126</span>  
