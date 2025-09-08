@@ -1,3 +1,9 @@
+# RELEASE VERSION: 8th September 2025
+
+##### Software connector Google ACME Cert verification  <span class="ticket">ID-142</span>  
+ Fixed a bug in the software connector registration process  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 19th August 2025
 
 ##### Required date on Purchase orders issue has re-emerged as this was workin previously but now broke. <span class="ticket">ID-122</span>  
