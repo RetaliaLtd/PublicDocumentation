@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th September 2025
+
+##### Request from GL to add Item Number high low sort functionality to the Inventory/Item List <span class="ticket">ID-144</span>  
+ Item list now allows sort by master item number  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 8th September 2025
 
 ##### Software connector Google ACME Cert verification  <span class="ticket">ID-142</span>  
