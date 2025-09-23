@@ -1,3 +1,9 @@
+# RELEASE VERSION: 23rd September 2025
+
+##### Issues where Vendor Cost is not updating and lookup button page in purchase orders is showing a last cost value instead of current cost <span class="ticket">ID-145</span>  
+ fixed a bug which caused the item cost not to update when vendor item cost was changed  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 17th September 2025
 
 ##### Request from GL to add Item Number high low sort functionality to the Inventory/Item List <span class="ticket">ID-144</span>  
