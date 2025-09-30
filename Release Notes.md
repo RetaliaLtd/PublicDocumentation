@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th September 2025
 
+##### POS Options incorrect <span class="ticket">ID-148</span>  
+ Fixed a bug which caused pos options to display as unchecked within pos admin module  
+  <span class="bug">Bug</span>  
+  
 ##### Profit margin % in Sales report is incorrect when multiple amounts of items are sold. <span class="ticket">ID-152</span>  
  Fixed a bug which caused profit % to be incorrect when multiples of the same item are sold  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  
