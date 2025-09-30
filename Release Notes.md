@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th September 2025
 
+##### Extend Data Export <span class="ticket">ID-135</span>  
+ Added vendor tables to data export within Backoffice  
+  <span class="bug">Bug</span>  
+  
 ##### POS Options incorrect <span class="ticket">ID-148</span>  
  Fixed a bug which caused pos options to display as unchecked within pos admin module  
   <span class="bug">Bug</span>  
