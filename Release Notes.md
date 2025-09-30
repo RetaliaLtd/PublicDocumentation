@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th September 2025
 
+##### Empty purchase order fails to GET <span class="ticket">ID-132</span>  
+ Fixed a bug when trying to open a purchase order which has no item lines  
+  <span class="bug">Bug</span>  
+  
 ##### Extend Data Export <span class="ticket">ID-135</span>  
  Added vendor tables to data export within Backoffice  
   <span class="bug">Bug</span>  
