@@ -1,3 +1,9 @@
+# RELEASE VERSION: 30th September 2025
+
+##### Profit margin % in Sales report is incorrect when multiple amounts of items are sold. <span class="ticket">ID-152</span>  
+ Fixed a bug which caused profit % to be incorrect when multiples of the same item are sold  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 23rd September 2025
 
 ##### Issues where Vendor Cost is not updating and lookup button page in purchase orders is showing a last cost value instead of current cost <span class="ticket">ID-145</span>  
