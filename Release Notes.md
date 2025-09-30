@@ -1,5 +1,9 @@
 # RELEASE VERSION: 30th September 2025
 
+##### Report filter request slow and inefficient  <span class="ticket">ID-116</span>  
+ Improve speed on report filter request  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Empty purchase order fails to GET <span class="ticket">ID-132</span>  
  Fixed a bug when trying to open a purchase order which has no item lines  
   <span class="bug">Bug</span>  
