@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th October 2025
+
+##### Can we place a the LOOKUP button in the multi store PO functionality as we do in Single store PO <span class="ticket">ID-123</span>  
+ Improved the multi purchase order lookup so that it performs a wildcard search if left blank  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 30th September 2025
 
 ##### Report filter request slow and inefficient  <span class="ticket">ID-116</span>  
