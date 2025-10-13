@@ -1,5 +1,9 @@
 # RELEASE VERSION: 13th October 2025
 
+##### Simple Tenant Setup <span class="ticket">ID-109</span>  
+ N/A  
+  <span class="new">New Feature</span>  
+  
 ##### Can we place a the LOOKUP button in the multi store PO functionality as we do in Single store PO <span class="ticket">ID-123</span>  
  Improved the multi purchase order lookup so that it performs a wildcard search if left blank  
   <span class="bug">Bug</span>  
