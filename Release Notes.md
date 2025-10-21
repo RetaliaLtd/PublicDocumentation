@@ -1,3 +1,9 @@
+# RELEASE VERSION: 21st October 2025
+
+##### Timeslots not working in self-serve applications <span class="ticket">ID-175</span>  
+ Fixed a bug in timeslot creation for self serve  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 13th October 2025
 
 ##### Simple Tenant Setup <span class="ticket">ID-109</span>  
