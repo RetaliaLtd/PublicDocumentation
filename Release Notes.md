@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st October 2025
 
+##### Missing Item Images in item list and self serve applications <span class="ticket">ID-174</span>  
+ Item images were not being correctly displayed in the item list  or self serve applications after updates  
+  <span class="new">New Feature</span>  
+  
 ##### Timeslots not working in self-serve applications <span class="ticket">ID-175</span>  
  Fixed a bug in timeslot creation for self serve  
   <span class="bug">Bug</span>  
