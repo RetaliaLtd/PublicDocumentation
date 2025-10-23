@@ -1,3 +1,9 @@
+# RELEASE VERSION: 23rd October 2025
+
+##### Order status display timeslots not showing correct information <span class="ticket">ID-179</span>  
+ Fixed a bug in the order status display,this caused time slot management to default to override and not display the throughput total  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 21st October 2025
 
 ##### Missing Item Images in item list and self serve applications <span class="ticket">ID-174</span>  
