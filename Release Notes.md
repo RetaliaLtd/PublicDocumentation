@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th October 2025
 
+##### Custom Attribute switch (Yes/No) in Item matrix tab has no effect <span class="ticket">ID-143</span>  
+ Fixed item info for boolean types. Previously this was displaying even if the boolean was set to False  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Would it be possible to add the exisiting "barcode" column in purchase orders to the pdf export for Glasgow Life <span class="ticket">ID-169</span>  
  Purchase order export to PDF now include the item barcode  
   <span class="new">New Feature</span> <span class="service">Inventory</span>  
