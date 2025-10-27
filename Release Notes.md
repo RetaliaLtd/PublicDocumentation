@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th October 2025
+
+##### Would it be possible to add the exisiting "barcode" column in purchase orders to the pdf export for Glasgow Life <span class="ticket">ID-169</span>  
+ Purchase order export to PDF now include the item barcode  
+  <span class="new">New Feature</span> <span class="service">Inventory</span>  
+  
 # RELEASE VERSION: 23rd October 2025
 
 ##### Order status display timeslots not showing correct information <span class="ticket">ID-179</span>  
