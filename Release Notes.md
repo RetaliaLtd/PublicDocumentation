@@ -1,5 +1,9 @@
 # RELEASE VERSION: 3rd November 2025
 
+##### Add in transit to the Item Report <span class="ticket">ID-186</span>  
+ Added in transit column to the item report within Analysis module  
+  <span class="bug">Bug</span> <span class="service">Inventory</span>  
+  
 ##### Add the extended cost value as a total in the Analysis Movements report <span class="ticket">ID-170</span>  
  On the Analysis movement report when grouped the cost now shows as total for the grouped rows  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  
