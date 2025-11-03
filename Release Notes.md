@@ -4,6 +4,10 @@
  Fixed a bug which caused the start up slip to not print on new connectors  
   <span class="new">New Feature</span>  
   
+##### Print Startup Slip not printing on new devices <span class="ticket">ID-196</span>  
+ Fixed a bug which caused the start up slip to not print on new connectors  
+  <span class="new">New Feature</span>  
+  
 ##### Add in transit to the Item Report <span class="ticket">ID-186</span>  
  Added in transit column to the item report within Analysis module  
   <span class="bug">Bug</span> <span class="service">Inventory</span>  
