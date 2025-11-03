@@ -1,3 +1,9 @@
+# RELEASE VERSION: 3rd November 2025
+
+##### Add the extended cost value as a total in the Analysis Movements report <span class="ticket">ID-170</span>  
+ On the Analysis movement report when grouped the cost now shows as total for the grouped rows  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 27th October 2025
 
 ##### Custom Attribute switch (Yes/No) in Item matrix tab has no effect <span class="ticket">ID-143</span>  
