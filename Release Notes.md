@@ -1,3 +1,9 @@
+# RELEASE VERSION: 4th November 2025
+
+##### Loyalty Bonus Payment Type Showing When No Customer Selected <span class="ticket">ID-171</span>  
+ Fixed a bug which caused the loyalty bonus payment type to be enabled even when no customer is selected  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 3rd November 2025
 
 ##### Print Startup Slip not printing on new devices <span class="ticket">ID-196</span>  
