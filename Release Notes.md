@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2025
 
+##### Public API Master Item Upsert not updating Item Manufacturer Item No <span class="ticket">ID-197</span>  
+ Updated mapping so that the item manufacturer item no is now updated when using the master item upsert  
+  <span class="new">New Feature</span>  
+  
 ##### Loyalty Bonus Payment Type Showing When No Customer Selected <span class="ticket">ID-171</span>  
  Fixed a bug which caused the loyalty bonus payment type to be enabled even when no customer is selected  
   <span class="bug">Bug</span> <span class="service">POS</span>  
