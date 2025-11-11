@@ -1,5 +1,9 @@
 # RELEASE VERSION: 11th November 2025
 
+##### Analysis Financial summary showing incorrect cash statement figures <span class="ticket">ID-201</span>  
+ Removed the cash statement totals and made the seperation of the statements easier to see  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Add Weighted Average Cost to Public API <span class="ticket">ID-154</span>  
  Added new endpoint in the Public API which allows user to pass in item id and get the average costs for the item  
   <span class="new">New Feature</span> <span class="service">Public API</span>  
