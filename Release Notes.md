@@ -1,3 +1,9 @@
+# RELEASE VERSION: 11th November 2025
+
+##### Add Weighted Average Cost to Public API <span class="ticket">ID-154</span>  
+ Added new endpoint in the Public API which allows user to pass in item id and get the average costs for the item  
+  <span class="new">New Feature</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 4th November 2025
 
 ##### Public API Master Item Upsert not updating Item Manufacturer Item No <span class="ticket">ID-197</span>  
