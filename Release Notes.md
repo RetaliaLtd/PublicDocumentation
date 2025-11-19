@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th November 2025
 
+##### Add Item notes to the e-receipt <span class="ticket">ID-216</span>  
+ Added item notes to the e-receipt  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### Prompt User to ensure payments types are reconciled <span class="ticket">ID-195</span>  
  Added an additional prompt to users to ensure that all payment types are reconciled before completing cash statements  
   <span class="new">New Feature</span> <span class="service">POS</span>  
