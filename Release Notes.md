@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th November 2025
 
+##### Cash Statement incorrect daily closure count cash amount <span class="ticket">ID-215</span>  
+ Fixed mapping issue around reconcile of custom payment types meaning financial report showed incorrect cash amount  
+  <span class="new">New Feature</span>  
+  
 ##### Add Item notes to the e-receipt <span class="ticket">ID-216</span>  
  Added item notes to the e-receipt  
   <span class="new">New Feature</span> <span class="service">POS</span>  
