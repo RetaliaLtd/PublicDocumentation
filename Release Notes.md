@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th November 2025
+
+##### New Dimensions do not inherit season <span class="ticket">ID-219</span>  
+ Fixed a bug in the inventory ui that meant when creating new item variants they did not correctly inherit the season  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 19th November 2025
 
 ##### Cash Statement incorrect daily closure count cash amount <span class="ticket">ID-215</span>  
