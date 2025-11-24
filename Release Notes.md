@@ -1,3 +1,9 @@
+# RELEASE VERSION: 24th November 2025
+
+##### Cash drawer not open with Oxhoo printer <span class="ticket">ID-220</span>  
+ Fixed an issue where cash drawer was not opening on Oxhoo printer  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 20th November 2025
 
 ##### New Dimensions do not inherit season <span class="ticket">ID-219</span>  
