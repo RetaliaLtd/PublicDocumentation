@@ -1,3 +1,9 @@
+# RELEASE VERSION: 7th December 2025
+
+##### Adding or updating an Adyen terminal connector overwrites existing POIDs with null in AdyenConfig <span class="ticket">ID-162</span>  
+ Fixed a bug which caused Ayden POI to be incorrectly set to null when updating connector through Pos Admin  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 25th November 2025
 
 ##### Cash drawer not open with Oxhoo printer <span class="ticket">ID-220</span>  
