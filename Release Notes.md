@@ -1,3 +1,9 @@
+# RELEASE VERSION: 16th December 2025
+
+##### Store Sale summary shows confusing Sales and Returns values <span class="ticket">ID-225</span>  
+ Sales and returns totals have been aligned across Financial Summary and Analysis reports. Store Sales totals now deduct returns, and return values now include tax, ensuring consistent and accurate figures across all views.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 7th December 2025
 
 ##### Adding or updating an Adyen terminal connector overwrites existing POIDs with null in AdyenConfig <span class="ticket">ID-162</span>  
