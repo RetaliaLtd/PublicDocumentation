@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th January 2026
+
+##### Vendor is missing in transaction after being recalled from being Parked <span class="ticket">ID-358</span>  
+ Recalled parked transactions were not setting the supplier on the item, this meant reports showed sales under no vendor  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 16th December 2025
 
 ##### Store Sale summary shows confusing Sales and Returns values <span class="ticket">ID-225</span>  
