@@ -1,3 +1,9 @@
+# RELEASE VERSION: 21st January 2026
+
+##### Item Shortcuts in Pos to reflect  Heirarchies under Groups to settings <span class="ticket">ID-355</span>  
+ Item shortcuts are now limited to the item groups as set against the shop group. This improves pos behaviour as it will not show item groups not applicable to the shop  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 14th January 2026
 
 ##### Vendor is missing in transaction after being recalled from being Parked <span class="ticket">ID-358</span>  
