@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th February 2026
+
+##### Improve search function in Inventory/stocktake/manual counting <span class="ticket">ID-378</span>  
+ Search function in manual counting within stocktakes now filters results shown in the grid  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 21st January 2026
 
 ##### Item Shortcuts in Pos to reflect  Heirarchies under Groups to settings <span class="ticket">ID-355</span>  
