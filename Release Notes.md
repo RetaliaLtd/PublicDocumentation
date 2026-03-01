@@ -1,3 +1,9 @@
+# RELEASE VERSION: 1st March 2026
+
+##### BI Gateway API v1.1  Beta Controllers with Improved Consistency and Usability <span class="ticket">ID-251</span>  
+ Added v1.1 Beta controllers for BI Gateway with improved documentation, consistent paging on all endpoints and rate limiting  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 12th February 2026
 
 ##### Improve search function in Inventory/stocktake/manual counting <span class="ticket">ID-378</span>  
