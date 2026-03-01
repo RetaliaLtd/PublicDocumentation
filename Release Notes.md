@@ -1,5 +1,9 @@
 # RELEASE VERSION: 1st March 2026
 
+##### 500 error in Analysis reports when using group function in filters <span class="ticket">ID-361</span>  
+ Fixed a bug which caused analysis report to throw an error when using the group by filter  
+  <span class="bug">Bug</span>  
+  
 ##### Ensure connectors are returned in the same order <span class="ticket">ID-382</span>  
  Change to backend to ensure connectors are always returned in the same order  
   <span class="new">New Feature</span> <span class="service">POS</span>  
