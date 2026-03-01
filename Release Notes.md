@@ -1,5 +1,9 @@
 # RELEASE VERSION: 1st March 2026
 
+##### Ensure connectors are returned in the same order <span class="ticket">ID-382</span>  
+ Change to backend to ensure connectors are always returned in the same order  
+  <span class="new">New Feature</span> <span class="service">POS</span>  
+  
 ##### BI Gateway API v1.1  Beta Controllers with Improved Consistency and Usability <span class="ticket">ID-251</span>  
  Added v1.1 Beta controllers for BI Gateway with improved documentation, consistent paging on all endpoints and rate limiting  
   <span class="new">New Feature</span>  
