@@ -1,5 +1,9 @@
 # RELEASE VERSION: 9th March 2026
 
+##### Item Shortcuts shop specific  <span class="ticket">ID-392</span>  
+ Item shortcurts can now be made shop specific by including a tag `SYS-SC-{shopCode}` on the item. The item will then only show for shops that match the tag, note item must also be enabled for shortcut  
+  <span class="new">New Feature</span>  
+  
 ##### Combined Stock Analysis <span class="ticket">ID-147</span>  
  Release of a new beta Stock report in the analysis module  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  
