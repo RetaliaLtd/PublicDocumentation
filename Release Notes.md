@@ -1,3 +1,9 @@
+# RELEASE VERSION: 9th March 2026
+
+##### Combined Stock Analysis <span class="ticket">ID-147</span>  
+ Release of a new beta Stock report in the analysis module  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 1st March 2026
 
 ##### 500 error in Analysis reports when using group function in filters <span class="ticket">ID-361</span>  
