@@ -1,3 +1,9 @@
+# RELEASE VERSION: 15th March 2026
+
+##### Stock movement return price not populated <span class="ticket">ID-396</span>  
+ Fixed population of return price within stock movements  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 9th March 2026
 
 ##### Item Shortcuts shop specific  <span class="ticket">ID-392</span>  
