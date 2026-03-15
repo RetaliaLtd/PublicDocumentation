@@ -1,5 +1,9 @@
 # RELEASE VERSION: 15th March 2026
 
+##### Improved notification to Offline mode <span class="ticket">ID-227</span>  
+ Offline indicator in the POS now pulses red to give clearer indication that there is no network/internet connection  
+  <span class="new">New Feature</span>  
+  
 ##### Infrasec Migration from CCU to TCS <span class="ticket">ID-112</span>  
  Infrasec support for TCS  
   <span class="new">New Feature</span>  
