@@ -1,5 +1,9 @@
 # RELEASE VERSION: 15th March 2026
 
+##### Infrasec Migration from CCU to TCS <span class="ticket">ID-112</span>  
+ Infrasec support for TCS  
+  <span class="new">New Feature</span>  
+  
 ##### 0 qty adjustment movement <span class="ticket">ID-368</span>  
  If an adjustment quantity of 0 is added to the system then no stock movement is added to reduce records being inserted   
   <span class="bug">Bug</span>  
