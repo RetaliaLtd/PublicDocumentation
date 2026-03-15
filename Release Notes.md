@@ -1,5 +1,9 @@
 # RELEASE VERSION: 15th March 2026
 
+##### 0 qty adjustment movement <span class="ticket">ID-368</span>  
+ If an adjustment quantity of 0 is added to the system then no stock movement is added to reduce records being inserted   
+  <span class="bug">Bug</span>  
+  
 ##### Stock movement return price not populated <span class="ticket">ID-396</span>  
  Fixed population of return price within stock movements  
   <span class="new">New Feature</span>  
