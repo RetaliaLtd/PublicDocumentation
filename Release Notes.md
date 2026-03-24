@@ -1,3 +1,9 @@
+# RELEASE VERSION: 24th March 2026
+
+##### Analysis Sales report "On hand" column is totaling the On hand values which is incorrect <span class="ticket">ID-391</span>  
+ Fixed a bug in the sales report so on-hand columnis now totalling correct when grouped  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 15th March 2026
 
 ##### Improved notification to Offline mode <span class="ticket">ID-227</span>  
