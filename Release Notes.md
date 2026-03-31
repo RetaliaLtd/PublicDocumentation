@@ -1,3 +1,9 @@
+# RELEASE VERSION: 31st March 2026
+
+##### Cash Statements failing  <span class="ticket">ID-377</span>  
+ Fixed an issue where cash statements with a large number of transactions could fail to send to the backend.  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 24th March 2026
 
 ##### Analysis Sales report "On hand" column is totaling the On hand values which is incorrect <span class="ticket">ID-391</span>  
