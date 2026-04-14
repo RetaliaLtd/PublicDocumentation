@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th April 2026
+
+##### Analysis failing to save stock report <span class="ticket">ID-418</span>  
+ Analysis was not allowing users to save the stock report filters  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 31st March 2026
 
 ##### Cash Statements failing  <span class="ticket">ID-377</span>  
