@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Search microservice: search on custom attributes <span class="ticket">ID-428</span>  
+ Improved item search on custom attributes  
+  <span class="new">New Feature</span>  
+  
 ##### POS admin: Download software connector installer <span class="ticket">ID-438</span>  
  POS administrators can now easily download the software connector installer directly from the admin interface.  
   <span class="new">New Feature</span>  
