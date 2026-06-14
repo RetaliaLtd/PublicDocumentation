@@ -1,3 +1,9 @@
+# RELEASE VERSION: 14th June 2026
+
+##### Public API: Add Item Filtering Parameters to /api/v1.0/Vendor/{vendorNo} Endpoint <span class="ticket">ID-427</span>  
+ We've added item filtering to the /api/v1.0/Vendor/{vendorNo} endpoint, allowing you to easily retrieve specific items for a vendor.  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 14th April 2026
 
 ##### Analysis failing to save stock report <span class="ticket">ID-418</span>  
