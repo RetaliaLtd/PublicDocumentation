@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Retalia Lite Rebrand: Platform Admin <span class="ticket">ID-347</span>  
+ We've updated the Platform Admin UI with the new Retalia branding, including new logos, fonts, and colours, while keeping layouts and functionality the same.  
+  <span class="new">New Feature</span>  
+  
 ##### Retalia Lite Rebrand: Gift Aid <span class="ticket">ID-345</span>  
  The Gift Aid user interface has been visually updated with the new Retalia branding, including new logos, fonts, and colors, while maintaining the same layout and functionality.  
   <span class="new">New Feature</span>  
