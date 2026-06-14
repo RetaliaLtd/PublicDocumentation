@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Duplicate payments can be added when processing customer orders on POS <span class="ticket">ID-402</span>  
+ When processing customer order with serial items and all items were removed then the prepaid amount was not removed  
+  <span class="bug">Bug</span>  
+  
 ##### Portal K3 Support references <span class="ticket">ID-370</span>  
  Removed any text references to K3  
   <span class="bug">Bug</span>  
