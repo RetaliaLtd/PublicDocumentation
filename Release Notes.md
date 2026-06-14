@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Retalia Lite Rebrand: PPE <span class="ticket">ID-349</span>  
+ We've updated your application's user interface with the new Retalia branding, including refreshed logos, fonts, and colors for a modern and consistent experience.  
+  <span class="new">New Feature</span>  
+  
 ##### Retalia Lite Rebrand: Platform Admin <span class="ticket">ID-347</span>  
  We've updated the Platform Admin UI with the new Retalia branding, including new logos, fonts, and colours, while keeping layouts and functionality the same.  
   <span class="new">New Feature</span>  
