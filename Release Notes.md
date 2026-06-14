@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### POS admin: Download software connector installer <span class="ticket">ID-438</span>  
+ POS administrators can now easily download the software connector installer directly from the admin interface.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API: Add Item Filtering Parameters to /api/v1.0/Vendor/{vendorNo} Endpoint <span class="ticket">ID-427</span>  
  We've added item filtering to the /api/v1.0/Vendor/{vendorNo} endpoint, allowing you to easily retrieve specific items for a vendor.  
   <span class="new">New Feature</span>  
