@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Retalia Lite Rebrand: Analysis <span class="ticket">ID-342</span>  
+ The Analysis UI now features the new Retalia branding, including updated logos, fonts, and colors, with all previous Imagine references removed.  
+  <span class="new">New Feature</span>  
+  
 ##### Retalia Lite Rebrand: Portal <span class="ticket">ID-341</span>  
  We've updated the Portal with the new Retalia branding, including fresh logos, fonts, and colours, to provide a modern and consistent look without changing how you use it.  
   <span class="new">New Feature</span>  
