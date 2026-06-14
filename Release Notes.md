@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Retalia Lite Rebrand: Product Configurator <span class="ticket">ID-350</span>  
+ The Product Configurator now features the new Retalia branding, including updated logos, fonts, and colors, while maintaining the familiar layout and functionality.  
+  <span class="new">New Feature</span>  
+  
 ##### Retalia Lite Rebrand: PPE <span class="ticket">ID-349</span>  
  We've updated your application's user interface with the new Retalia branding, including refreshed logos, fonts, and colors for a modern and consistent experience.  
   <span class="new">New Feature</span>  
