@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Retalia Lite Rebrand: Self Serve Admin <span class="ticket">ID-352</span>  
+ The Self Serve Admin UI has been visually refreshed with the new Retalia branding, including updated logos, fonts, and colors for a modern and consistent look.  
+  <span class="new">New Feature</span>  
+  
 ##### Retalia Lite Rebrand: Product Configurator <span class="ticket">ID-350</span>  
  The Product Configurator now features the new Retalia branding, including updated logos, fonts, and colors, while maintaining the familiar layout and functionality.  
   <span class="new">New Feature</span>  
