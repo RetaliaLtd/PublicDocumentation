@@ -1,7 +1,7 @@
 # RELEASE VERSION: 14th June 2026
 
-##### Retalia Lite Rebrand: Visual Composer <span class="ticket">ID-353</span>  
- We've updated the look and feel of the Composer with new Retalia branding, including refreshed logos, fonts, and colors, while maintaining the familiar user experience.  
+##### Retalia Lite Rebrand: Backoffice <span class="ticket">ID-343</span>  
+ We've refreshed the Backoffice user interface with the new Retalia branding, including updated logos, fonts, and colours, while maintaining the familiar layout and functionality.  
   <span class="new">New Feature</span>  
   
 ##### Retalia Lite Rebrand: Self Serve Admin <span class="ticket">ID-352</span>  
