@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Retalia Lite Rebrand: Customer <span class="ticket">ID-344</span>  
+ We've updated the {{Customer}} user interface with the new Retalia branding, featuring refreshed logos, fonts, and colors for a modern and consistent experience.  
+  <span class="new">New Feature</span>  
+  
 ##### Retalia Lite Rebrand: Analysis <span class="ticket">ID-342</span>  
  The Analysis UI now features the new Retalia branding, including updated logos, fonts, and colors, with all previous Imagine references removed.  
   <span class="new">New Feature</span>  
