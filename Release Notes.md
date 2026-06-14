@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Portal K3 Support references <span class="ticket">ID-370</span>  
+ Removed any text references to K3  
+  <span class="bug">Bug</span>  
+  
 ##### Search microservice: search on custom attributes <span class="ticket">ID-428</span>  
  Improved item search on custom attributes  
   <span class="new">New Feature</span>  
