@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### POS Retalia Logo <span class="ticket">ID-444</span>  
+ We've updated the logo displayed on our Point of Sale system.  
+  <span class="new">New Feature</span>  
+  
 ##### Duplicate payments can be added when processing customer orders on POS <span class="ticket">ID-402</span>  
  When processing customer order with serial items and all items were removed then the prepaid amount was not removed  
   <span class="bug">Bug</span>  
