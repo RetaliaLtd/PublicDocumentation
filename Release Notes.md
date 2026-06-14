@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Retalia Lite Rebrand: Portal <span class="ticket">ID-341</span>  
+ We've updated the Portal with the new Retalia branding, including fresh logos, fonts, and colours, to provide a modern and consistent look without changing how you use it.  
+  <span class="new">New Feature</span>  
+  
 ##### Customer Order: Payment amount incorrect when multiple serial number items sold <span class="ticket">ID-426</span>  
  Fixed a bug which meant when quantity of serial item on customer order was greater than 1 the prepaid amount was not set correctly  
   <span class="new">New Feature</span>  
