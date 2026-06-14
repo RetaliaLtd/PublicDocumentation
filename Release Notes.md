@@ -1,5 +1,9 @@
 # RELEASE VERSION: 14th June 2026
 
+##### Public API: Add Item Filtering Parameters to /api/v1.0/Vendor/{vendorNo} Endpoint <span class="ticket">ID-427</span>  
+ We've added item filtering to the /api/v1.0/Vendor/{vendorNo} endpoint, allowing you to easily retrieve specific items for a vendor.  
+  <span class="new">New Feature</span>  
+  
 ##### Retalia Lite Rebrand: Inventory <span class="ticket">ID-346</span>  
  The Inventory user interface has been visually updated with the new Retalia branding, including new logos, fonts, and colors, while maintaining the same layout and functionality.   
   <span class="new">New Feature</span>  
