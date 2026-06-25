@@ -1,3 +1,9 @@
+# RELEASE VERSION: 25th June 2026
+
+##### Customer display target display has stopped working looks like a Chrome version issue <span class="ticket">ID-404</span>  
+ Resolved an issue where the customer display failed to open on the second monitor when using the latest version of Google Chrome.  
+  <span class="bug">Bug</span> <span class="service">POS</span>  
+  
 # RELEASE VERSION: 14th June 2026
 
 ##### Public API: Add Item Filtering Parameters to /api/v1.0/Vendor/{vendorNo} Endpoint <span class="ticket">ID-427</span>  
