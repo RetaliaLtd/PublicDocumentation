@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th July 2026
+
+##### Item weighted cost incorrect when transfer in performed and stock is currently negative <span class="ticket">ID-486</span>  
+ Item weighted average costs now calculate correctly when performing a stock transfer into a location with negative inventory.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 25th June 2026
 
 ##### Customer display target display has stopped working looks like a Chrome version issue <span class="ticket">ID-404</span>  
