@@ -1,5 +1,9 @@
 # RELEASE VERSION: 12th July 2026
 
+##### POS lock connector to session <span class="ticket">ID-484</span>  
+ Your POS connection is now securely locked to your active session for improved stability.  
+  <span class="new">New Feature</span>  
+  
 ##### Item weighted cost incorrect when transfer in performed and stock is currently negative <span class="ticket">ID-486</span>  
  Item weighted average costs now calculate correctly when performing a stock transfer into a location with negative inventory.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  
