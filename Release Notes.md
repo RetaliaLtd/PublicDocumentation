@@ -1,5 +1,9 @@
 # RELEASE VERSION: 13th July 2026
 
+##### Clerk Role Code Is Mandatory Field But Shouldn't Be <span class="ticket">ID-492</span>  
+ The Clerk Role Code field is now optional, allowing you to create new clerks without requiring a role code.  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Software connector transaction resend taxcode id <span class="ticket">ID-485</span>  
  Resolved an issue where tax code identifiers were not correctly included when resending transactions through the software connector.  
   <span class="bug">Bug</span>  
