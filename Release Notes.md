@@ -1,3 +1,9 @@
+# RELEASE VERSION: 13th July 2026
+
+##### Software connector transaction resend taxcode id <span class="ticket">ID-485</span>  
+ Resolved an issue where tax code identifiers were not correctly included when resending transactions through the software connector.  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 12th July 2026
 
 ##### POS lock connector to session <span class="ticket">ID-484</span>  
