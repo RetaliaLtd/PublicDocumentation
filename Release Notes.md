@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th July 2026
+
+##### Improve Instore App Purchase order functionality <span class="ticket">ID-495</span>  
+ Manage purchase orders more efficiently with new date and status filters, visibility of partially received items, and a responsive search screen layout in the Instore App.  
+  <span class="new">New Feature</span> <span class="service">Companion</span>  
+  
 # RELEASE VERSION: 13th July 2026
 
 ##### Clerk Role Code Is Mandatory Field But Shouldn't Be <span class="ticket">ID-492</span>  
