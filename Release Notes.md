@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st July 2026
 
+##### analysis - remove date selector for item report <span class="ticket">ID-507</span>  
+ The non-functional date selector has been removed from the item report to streamline the user interface.  
+  <span class="task">Task</span>  
+  
 ##### Analysis sales report Full Price column is not showing grouped data <span class="ticket">ID-510</span>  
  The Sales (inc vat) column in the Analysis sales report now correctly displays grouped data.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  
