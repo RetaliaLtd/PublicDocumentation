@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st July 2026
 
+##### Analysis sales report Full Price column is not showing grouped data <span class="ticket">ID-510</span>  
+ The Sales (inc vat) column in the Analysis sales report now correctly displays grouped data.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Feature Request: Add Tags To Stock/Item Analysis  Reports <span class="ticket">ID-28</span>  
  You can now filter Item and Stock Analysis reports by tags to better track and analyze specific inventory groups like seasonal items.  
   <span class="new">New Feature</span>  
