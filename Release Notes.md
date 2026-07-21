@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st July 2026
 
+##### Analysis Sales Report pivot grid <span class="ticket">ID-433</span>  
+ A new pivot grid view is now available in the Analysis Sales Report to provide more flexible data analysis options.  
+  <span class="task">Task</span>  
+  
 ##### Analysis/Dashboard "show all graphs" button is inactive in both Prod and Dev <span class="ticket">ID-437</span>  
  The "show all graphs" button on the Analysis dashboard is now fully functional, allowing you to view all charts as expected.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  
