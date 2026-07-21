@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st July 2026
 
+##### Feature Request: Add Tags To Stock/Item Analysis  Reports <span class="ticket">ID-28</span>  
+ You can now filter Item and Stock Analysis reports by tags to better track and analyze specific inventory groups like seasonal items.  
+  <span class="new">New Feature</span>  
+  
 ##### My Analysis report filter is not showing "Payments" report type <span class="ticket">ID-467</span>  
  Fixed an issue where the "Payments" report type was missing from the My Analysis filter, ensuring payment reports now save and load correctly.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  
