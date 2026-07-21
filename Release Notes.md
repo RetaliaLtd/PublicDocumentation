@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st July 2026
 
+##### Analysis/Dashboard "show all graphs" button is inactive in both Prod and Dev <span class="ticket">ID-437</span>  
+ The "show all graphs" button on the Analysis dashboard is now fully functional, allowing you to view all charts as expected.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Analysis styling <span class="ticket">ID-436</span>  
  Sales reports now feature a full-width layout, a simplified date selector with quick options, and updated summary boxes to match the dashboard's design.  
   <span class="task">Task</span>  
