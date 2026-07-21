@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st July 2026
 
+##### Analysis Sales report quantity on hand values don't match Item report <span class="ticket">ID-509</span>  
+ Quantity on hand values in the Analysis Sales report now correctly match the Item report for improved data accuracy.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Analysis Sales Report pivot grid <span class="ticket">ID-433</span>  
  A new pivot grid view is now available in the Analysis Sales Report to provide more flexible data analysis options.  
   <span class="task">Task</span>  
