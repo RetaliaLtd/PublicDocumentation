@@ -1,5 +1,9 @@
 # RELEASE VERSION: 21st July 2026
 
+##### My Analysis report filter is not showing "Payments" report type <span class="ticket">ID-467</span>  
+ Fixed an issue where the "Payments" report type was missing from the My Analysis filter, ensuring payment reports now save and load correctly.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Analysis Sales report quantity on hand values don't match Item report <span class="ticket">ID-509</span>  
  Quantity on hand values in the Analysis Sales report now correctly match the Item report for improved data accuracy.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  
