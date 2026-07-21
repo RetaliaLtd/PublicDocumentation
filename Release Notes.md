@@ -1,3 +1,9 @@
+# RELEASE VERSION: 21st July 2026
+
+##### Analysis UI , show only limited filters with option to show more <span class="ticket">ID-430</span>  
+ The Analysis UI now features a simplified filter view that displays key report criteria by default with a new option to expand for additional filtering.  
+  <span class="task">Task</span>  
+  
 # RELEASE VERSION: 17th July 2026
 
 ##### Improve Instore App Purchase order functionality <span class="ticket">ID-495</span>  
