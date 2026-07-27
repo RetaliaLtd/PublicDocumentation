@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th July 2026
 
+##### Sales report and Stock reports are not calculating gross profit margin for items with a 0 cost value <span class="ticket">ID-468</span>  
+ Sales and Stock reports now accurately display a 100% gross profit margin for items with a zero cost value.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Stock beta report is showing some unusual figures <span class="ticket">ID-411</span>  
  Improved the accuracy of the Stock Beta report by correcting gross profit percentage calculations and ensuring discount totals are no longer duplicated across multiple locations.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  
