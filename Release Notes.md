@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th July 2026
+
+##### Stock beta report is showing some unusual figures <span class="ticket">ID-411</span>  
+ Improved the accuracy of the Stock Beta report by correcting gross profit percentage calculations and ensuring discount totals are no longer duplicated across multiple locations.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 21st July 2026
 
 ##### analysis - remove date selector for item report <span class="ticket">ID-507</span>  
