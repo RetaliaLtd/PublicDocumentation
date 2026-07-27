@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th July 2026
 
+##### Stock beta report is showing some unusual figures <span class="ticket">ID-411</span>  
+ Improved the accuracy of the Stock Beta report by correcting gross profit percentage calculations and ensuring discount totals are no longer duplicated across multiple locations.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Grouped reports incorrectly aggregate cost, profit, stock and unit-value fields <span class="ticket">ID-512</span>  
  Grouped reports now accurately calculate and display cost, profit, stock, and unit-value totals.  
   <span class="bug">Bug</span>  
