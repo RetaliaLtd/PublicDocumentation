@@ -1,3 +1,9 @@
+# RELEASE VERSION: 28th July 2026
+
+##### Add VAT KPI to Analysis Payment report block totals <span class="ticket">ID-508</span>  
+ The Payment Analysis report now includes a Total VAT KPI in the summary totals and Excel exports, providing a consolidated tax summary for all transactions, including split payments and refunds.  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 27th July 2026
 
 ##### Stock beta report is showing some unusual figures <span class="ticket">ID-411</span>  
