@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: SerialNumbers <span class="ticket">ID-309</span>  
+ Enhanced serial number management features now offer improved data paging and standardized navigation for a more consistent and predictable integration experience.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Shop <span class="ticket">ID-310</span>  
  Our updated Shop integration tools provide a more consistent and predictable experience with improved paging and documentation to better support your development needs.  
   <span class="new">New Feature</span>  
