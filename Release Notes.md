@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: Cash <span class="ticket">ID-284</span>  
+ Partners and developers can now benefit from a more consistent and efficient cash management integration experience with improved data paging and standardized controls.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Custom Attribute <span class="ticket">ID-285</span>  
  We have introduced an updated version of custom attribute management to provide a more consistent and predictable integration experience with improved data paging.  
   <span class="new">New Feature</span>  
