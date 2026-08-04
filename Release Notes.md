@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: Custom Attribute <span class="ticket">ID-285</span>  
+ We have introduced an updated version of custom attribute management to provide a more consistent and predictable integration experience with improved data paging.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Customer <span class="ticket">ID-286</span>  
  We have enhanced our developer integration tools to provide a more consistent and predictable experience when managing customer data.  
   <span class="new">New Feature</span>  
