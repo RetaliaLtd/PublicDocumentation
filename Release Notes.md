@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: MasterItem <span class="ticket">ID-298</span>  
+ We have enhanced the MasterItem integration with improved data paging and standardized conventions to provide a more consistent and efficient experience.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Movements <span class="ticket">ID-300</span>  
  We have enhanced the Movements integration to provide a more consistent and predictable experience with improved data paging.  
   <span class="new">New Feature</span>  
