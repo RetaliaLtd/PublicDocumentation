@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: TaxCode <span class="ticket">ID-315</span>  
+ Our updated TaxCode integration provides a more consistent and predictable experience with improved paging and standardized data access for easier development.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: TaxGroup <span class="ticket">ID-316</span>  
  Enhanced tax group management now provides a more consistent and predictable integration experience through standardized paging and improved documentation.  
   <span class="new">New Feature</span>  
