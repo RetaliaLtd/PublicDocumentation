@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: Price <span class="ticket">ID-304</span>  
+ Enjoy a more consistent and predictable pricing integration experience with improved data paging and standardized data retrieval for better performance.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: PurchaseOrder <span class="ticket">ID-305</span>  
  We have updated our purchase order integration to provide a more consistent experience with improved paging and documentation.  
   <span class="new">New Feature</span>  
