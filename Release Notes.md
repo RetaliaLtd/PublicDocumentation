@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: VendorReturn <span class="ticket">ID-320</span>  
+ We have released version 1.1 of the vendor return integration, featuring standardized paging and improved request methods for a more consistent developer experience.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Vouchers <span class="ticket">ID-321</span>  
  Enjoy a more predictable vouchers integration experience with our updated interface featuring improved paging and documentation.  
   <span class="new">New Feature</span>  
