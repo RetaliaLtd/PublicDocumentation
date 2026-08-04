@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: Vendor <span class="ticket">ID-319</span>  
+ Our updated vendor integration tools now offer a more consistent and efficient experience with improved data handling and standardized access for partners and developers.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: VendorReturn <span class="ticket">ID-320</span>  
  We have released version 1.1 of the vendor return integration, featuring standardized paging and improved request methods for a more consistent developer experience.  
   <span class="new">New Feature</span>  
