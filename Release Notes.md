@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: Basket <span class="ticket">ID-283</span>  
+ We have updated our basket features to provide a more consistent and predictable experience for a smoother and more efficient integration process.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Cash <span class="ticket">ID-284</span>  
  Partners and developers can now benefit from a more consistent and efficient cash management integration experience with improved data paging and standardized controls.  
   <span class="new">New Feature</span>  
