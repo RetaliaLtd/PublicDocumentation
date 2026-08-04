@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: GoodsReceiptNote <span class="ticket">ID-290</span>  
+ Goods Receipt Note integrations are now more efficient and predictable thanks to standardized data retrieval and improved paging controls.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Item <span class="ticket">ID-291</span>  
  Our updated Item integration provides a more consistent and predictable experience for developers through improved data paging and standardized access.  
   <span class="new">New Feature</span>  
