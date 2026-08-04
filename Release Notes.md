@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: FinancialReport <span class="ticket">ID-289</span>  
+ Version 1.1 of the FinancialReport integration is now available, providing a more consistent experience with improved data paging and standardized retrieval methods.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: GoodsReceiptNote <span class="ticket">ID-290</span>  
  Goods Receipt Note integrations are now more efficient and predictable thanks to standardized data retrieval and improved paging controls.  
   <span class="new">New Feature</span>  
