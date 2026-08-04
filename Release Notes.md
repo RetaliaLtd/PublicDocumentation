@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: StockAdjustment <span class="ticket">ID-312</span>  
+ We have enhanced the stock adjustment integration to provide a more consistent and efficient experience for partners and developers.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: StockLookup <span class="ticket">ID-313</span>  
  We have enhanced our stock lookup tools to provide a more consistent experience with improved data navigation and standardized search functionality.  
   <span class="new">New Feature</span>  
