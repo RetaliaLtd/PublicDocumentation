@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: ItemHierarchy <span class="ticket">ID-293</span>  
+ We have enhanced the ItemHierarchy integration with improved paging and standardized requests to provide a more consistent and predictable experience.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: ItemStocks <span class="ticket">ID-295</span>  
  We have enhanced our stock management integration to provide a more consistent and predictable experience with improved data paging and standardized request methods.  
   <span class="new">New Feature</span>  
