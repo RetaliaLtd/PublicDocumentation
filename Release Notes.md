@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Create Public API v1.1 Controllers with Improved Consistency and Usability <span class="ticket">ID-250</span>  
+ Our latest integration update, version 1.1, features enhanced documentation and standardized paging for a more consistent and reliable developer experience.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Basket <span class="ticket">ID-283</span>  
  We have updated our basket features to provide a more consistent and predictable experience for a smoother and more efficient integration process.  
   <span class="new">New Feature</span>  
