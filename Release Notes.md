@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: Transfers <span class="ticket">ID-318</span>  
+ Our transfers integration has been updated to provide a more consistent and predictable experience with improved paging and documentation.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Vendor <span class="ticket">ID-319</span>  
  Our updated vendor integration tools now offer a more consistent and efficient experience with improved data handling and standardized access for partners and developers.  
   <span class="new">New Feature</span>  
