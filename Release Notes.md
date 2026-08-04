@@ -1,11 +1,11 @@
 # RELEASE VERSION: 4th August 2026
 
-##### Public API v1.1: CustomerOrder <span class="ticket">ID-287</span>  
- Our updated order management tools now offer a more consistent and efficient integration experience through improved paging and standardized request handling.  
+##### Public API v1.1: Customer <span class="ticket">ID-286</span>  
+ We have enhanced our developer integration tools to provide a more consistent and predictable experience when managing customer data.  
   <span class="new">New Feature</span>  
   
-##### Public API v1.1: FinancialReport <span class="ticket">ID-289</span>  
- Version 1.1 of the FinancialReport integration is now available, providing a more consistent experience with improved data paging and standardized retrieval methods.  
+##### Public API v1.1: Extension <span class="ticket">ID-288</span>  
+ Our updated extension integration provides a more predictable experience with standardized paging and improved documentation while maintaining full compatibility with existing versions.  
   <span class="new">New Feature</span>  
   
 ##### Public API v1.1: GoodsReceiptNote <span class="ticket">ID-290</span>  
