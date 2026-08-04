@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: Vouchers <span class="ticket">ID-321</span>  
+ Enjoy a more predictable vouchers integration experience with our updated interface featuring improved paging and documentation.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: WebOrders <span class="ticket">ID-322</span>  
  We have enhanced the WebOrders integration with a new version featuring standardized paging and improved documentation for a more consistent and efficient experience.  
   <span class="new">New Feature</span>  
