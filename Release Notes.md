@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: StockTake <span class="ticket">ID-314</span>  
+ Our stock take integration features have been updated to provide a more consistent and efficient experience when managing your inventory data.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: TaxCode <span class="ticket">ID-315</span>  
  Our updated TaxCode integration provides a more consistent and predictable experience with improved paging and standardized data access for easier development.  
   <span class="new">New Feature</span>  
