@@ -1,7 +1,7 @@
 # RELEASE VERSION: 4th August 2026
 
-##### Public API v1.1: OrderInStore <span class="ticket">ID-302</span>  
- We have updated the OrderInStore integration to provide a more consistent and predictable experience with improved data handling and clearer documentation for partners.  
+##### Public API v1.1: Order <span class="ticket">ID-301</span>  
+ We have introduced an updated version of our order management integration to provide partners and developers with a more consistent and predictable experience.  
   <span class="new">New Feature</span>  
   
 ##### Public API v1.1: Price <span class="ticket">ID-304</span>  
