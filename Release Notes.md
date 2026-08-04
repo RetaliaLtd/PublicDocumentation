@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: TaxGroup <span class="ticket">ID-316</span>  
+ Enhanced tax group management now provides a more consistent and predictable integration experience through standardized paging and improved documentation.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Transactions <span class="ticket">ID-317</span>  
  Updated transaction integration tools provide a more consistent and predictable experience with improved paging and standardized documentation.  
   <span class="new">New Feature</span>  
