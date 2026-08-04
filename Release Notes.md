@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: Shop <span class="ticket">ID-310</span>  
+ Our updated Shop integration tools provide a more consistent and predictable experience with improved paging and documentation to better support your development needs.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Staff <span class="ticket">ID-311</span>  
  Partners can now enjoy a more consistent and predictable staff management integration experience with improved data paging and standardized request handling.  
   <span class="new">New Feature</span>  
