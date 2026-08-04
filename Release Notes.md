@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: Staff <span class="ticket">ID-311</span>  
+ Partners can now enjoy a more consistent and predictable staff management integration experience with improved data paging and standardized request handling.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: StockAdjustment <span class="ticket">ID-312</span>  
  We have enhanced the stock adjustment integration to provide a more consistent and efficient experience for partners and developers.  
   <span class="new">New Feature</span>  
