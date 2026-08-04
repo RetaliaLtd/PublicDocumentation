@@ -1,3 +1,9 @@
+# RELEASE VERSION: 4th August 2026
+
+##### Public API v1.1: WebOrders <span class="ticket">ID-322</span>  
+ We have enhanced the WebOrders integration with a new version featuring standardized paging and improved documentation for a more consistent and efficient experience.  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 28th July 2026
 
 ##### Add VAT KPI to Analysis Payment report block totals <span class="ticket">ID-508</span>  
