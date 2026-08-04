@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th August 2026
 
+##### Public API v1.1: SalesSummary <span class="ticket">ID-307</span>  
+ Partners can now access sales summary data more efficiently with improved data retrieval standards for a more consistent and predictable experience.  
+  <span class="new">New Feature</span>  
+  
 ##### Public API v1.1: Season <span class="ticket">ID-308</span>  
  Enjoy a more consistent and predictable integration experience with updated Season management features, including improved documentation and standardized data paging.  
   <span class="new">New Feature</span>  
