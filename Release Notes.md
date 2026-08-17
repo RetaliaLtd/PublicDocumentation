@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th August 2026
 
+##### Analysis sales report Full Price column is not showing grouped data <span class="ticket">ID-510</span>  
+ The Sales (inc vat) column in the Analysis sales report now correctly displays grouped data.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 ##### Vendor Item query <span class="ticket">ID-601</span>  
  Resolved an issue to ensure vendor item data is accurately retrieved and displayed.  
   <span class="new">New Feature</span>  
