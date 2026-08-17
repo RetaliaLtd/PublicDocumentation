@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th August 2026
 
+##### Vendor Item query <span class="ticket">ID-601</span>  
+ Resolved an issue to ensure vendor item data is accurately retrieved and displayed.  
+  <span class="new">New Feature</span>  
+  
 ##### Cost price's are showing inconsistent values in Analysis reports <span class="ticket">ID-594</span>  
  Analysis reports now display accurate weighted average cost prices, resolving inconsistencies caused by zero stock levels or stock reductions.  
   <span class="bug">Bug</span>  
