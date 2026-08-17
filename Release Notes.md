@@ -1,3 +1,9 @@
+# RELEASE VERSION: 17th August 2026
+
+##### Cost price's are showing inconsistent values in Analysis reports <span class="ticket">ID-594</span>  
+ Analysis reports now display accurate weighted average cost prices, resolving inconsistencies caused by zero stock levels or stock reductions.  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 4th August 2026
 
 ##### Create Public API v1.1 Controllers with Improved Consistency and Usability <span class="ticket">ID-250</span>  
