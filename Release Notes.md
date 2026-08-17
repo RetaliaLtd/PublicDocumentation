@@ -1,5 +1,9 @@
 # RELEASE VERSION: 17th August 2026
 
+##### inventory - item list replace checkbox with switch <span class="ticket">ID-590</span>  
+ The "Show Active Only" filter on the inventory items page has been updated from a checkbox to a switch with "Yes" and "No" labels for a better user experience.  
+  <span class="task">Task</span>  
+  
 ##### Analysis sales report Full Price column is not showing grouped data <span class="ticket">ID-510</span>  
  The Sales (inc vat) column in the Analysis sales report now correctly displays grouped data.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  
