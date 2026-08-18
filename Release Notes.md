@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Platform Data Microservice - Add Partner-Visible Extension Metadata <span class="ticket">ID-450</span>  
+ Users now only see extension data for tenants within their own group, ensuring consistent visibility and data privacy across the platform.  
+  <span class="new">New Feature</span>  
+  
 ##### Platform Data Microservice - Add Partner-Visible Payment Extension Metadata <span class="ticket">ID-451</span>  
  Payment extension visibility is now restricted to your tenant group to ensure data privacy and consistency, while administrators retain full access to all records.  
   <span class="new">New Feature</span>  
