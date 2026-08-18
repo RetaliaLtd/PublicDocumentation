@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Discount reasons not showing on second item line price change <span class="ticket">ID-425</span>  
+ Discount reasons now correctly display when applying line price changes to multiple items in a transaction, ensuring all price adjustments can be completed successfully.  
+  <span class="bug">Bug</span>  
+  
 ##### Public api v1.1: MasterItem and Item Search <span class="ticket">ID-429</span>  
  New search capabilities allow you to quickly locate master items and individual items within your catalog.  
   <span class="new">New Feature</span>  
