@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Companion lite rebrand <span class="ticket">ID-443</span>  
+ Companion Lite has been rebranded with a new name and updated visual identity.  
+  <span class="new">New Feature</span>  
+  
 ##### Identity Microservice - Add Partner Portal Module <span class="ticket">ID-447</span>  
  Administrators can now manage Partner Portal access independently from Platform Admin permissions with the introduction of a dedicated Partner Portal module.  
   <span class="new">New Feature</span>  
