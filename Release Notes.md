@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Platform Data Microservice - Add Partner-Visible Payment Extension Metadata <span class="ticket">ID-451</span>  
+ Payment extension visibility is now restricted to your tenant group to ensure data privacy and consistency, while administrators retain full access to all records.  
+  <span class="new">New Feature</span>  
+  
 ##### Partner Portal UI - Build Retalia-Branded Partner Portal <span class="ticket">ID-459</span>  
  Partners can now manage tenants, integrations, licensing, and extensions through the new Retalia-branded Partner Portal and its centralized dashboard.  
   <span class="new">New Feature</span>  
