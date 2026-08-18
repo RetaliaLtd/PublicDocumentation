@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Software connector - Imagine Refs <span class="ticket">ID-462</span>  
+ You can now integrate with Imagine Refs using the new software connector to streamline your data management.  
+  <span class="new">New Feature</span>  
+  
 ##### POS Admin update media npm library <span class="ticket">ID-479</span>  
  Selected images in the POS Admin now display horizontally to provide a consistent viewing experience across the interface.  
   <span class="task">Task</span>  
