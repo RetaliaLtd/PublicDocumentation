@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Identity Microservice - Add Partner Portal Module <span class="ticket">ID-447</span>  
+ Administrators can now manage Partner Portal access independently from Platform Admin permissions with the introduction of a dedicated Partner Portal module.  
+  <span class="new">New Feature</span>  
+  
 ##### Identity Microservice - Add Partner Tier and Support Metadata <span class="ticket">ID-448</span>  
  You can now manage partner tier levels and support URLs to ensure the correct support model is displayed within the Partner Portal.  
   <span class="new">New Feature</span>  
