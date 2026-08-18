@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Public api v1.1: MasterItem and Item Search <span class="ticket">ID-429</span>  
+ New search capabilities allow you to quickly locate master items and individual items within your catalog.  
+  <span class="new">New Feature</span>  
+  
 ##### Purchase orders that are in a "Partly Received"  status are not showing in companion app <span class="ticket">ID-432</span>  
  Purchase orders in a "Partly Received" status are now visible in the companion app, allowing you to easily locate and complete partially processed orders.  
   <span class="bug">Bug</span> <span class="service">Companion</span>  
