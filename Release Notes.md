@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Identity Microservice - Add Partner Tier and Support Metadata <span class="ticket">ID-448</span>  
+ You can now manage partner tier levels and support URLs to ensure the correct support model is displayed within the Partner Portal.  
+  <span class="new">New Feature</span>  
+  
 ##### Licensing Microservice - Add Tenant Set Filtering <span class="ticket">ID-449</span>  
  Licensing activity is now filtered by assigned tenant groups to ensure users only see data they are authorized to access.  
   <span class="new">New Feature</span>  
