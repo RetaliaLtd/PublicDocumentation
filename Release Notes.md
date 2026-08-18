@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Stocktaking validation edit button click detection <span class="ticket">ID-489</span>  
+ Resolved an issue that prevented users from clicking the edit button on failed stocktaking validations.  
+  <span class="bug">Bug</span>  
+  
 ##### Feature request to enhance stocktake file import validation failures <span class="ticket">ID-499</span>  
  A new export button in the stocktake validation window allows you to download failed import lines to a spreadsheet for easier review and external editing.  
   <span class="new">New Feature</span>  
