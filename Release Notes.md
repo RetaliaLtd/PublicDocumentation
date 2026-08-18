@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Feature request to enhance stocktake file import validation failures <span class="ticket">ID-499</span>  
+ A new export button in the stocktake validation window allows you to download failed import lines to a spreadsheet for easier review and external editing.  
+  <span class="new">New Feature</span>  
+  
 ##### Expire all button in Gift Vouchers has no effect. <span class="ticket">ID-502</span>  
  The "Expire All" button in Gift Vouchers now correctly expires all open vouchers based on your selected filters.  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  
