@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Partner Portal UI - Build Retalia-Branded Partner Portal <span class="ticket">ID-459</span>  
+ Partners can now manage tenants, integrations, licensing, and extensions through the new Retalia-branded Partner Portal and its centralized dashboard.  
+  <span class="new">New Feature</span>  
+  
 ##### Platform Admin UI - Manage Partner Portal Admin Fields <span class="ticket">ID-458</span>  
  Platform Admins can now manage partner tiers, support URLs, and portal access directly through the UI to streamline partner onboarding.  
   <span class="new">New Feature</span>  
