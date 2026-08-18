@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Licensing Microservice - Add Tenant Set Filtering <span class="ticket">ID-449</span>  
+ Licensing activity is now filtered by assigned tenant groups to ensure users only see data they are authorized to access.  
+  <span class="new">New Feature</span>  
+  
 ##### Platform Data Microservice - Add Partner-Visible Extension Metadata <span class="ticket">ID-450</span>  
  Users now only see extension data for tenants within their own group, ensuring consistent visibility and data privacy across the platform.  
   <span class="new">New Feature</span>  
