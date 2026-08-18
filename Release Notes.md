@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### POS Admin update media npm library <span class="ticket">ID-479</span>  
+ Selected images in the POS Admin now display horizontally to provide a consistent viewing experience across the interface.  
+  <span class="task">Task</span>  
+  
 ##### Stocktaking validation edit button click detection <span class="ticket">ID-489</span>  
  Resolved an issue that prevented users from clicking the edit button on failed stocktaking validations.  
   <span class="bug">Bug</span>  
