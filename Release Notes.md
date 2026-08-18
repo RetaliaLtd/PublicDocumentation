@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Software connector odp 333 printing speed <span class="ticket">ID-461</span>  
+ Improved printing speeds for the ODP 333 software connector.  
+  <span class="bug">Bug</span>  
+  
 ##### Software connector - Imagine Refs <span class="ticket">ID-462</span>  
  You can now integrate with Imagine Refs using the new software connector to streamline your data management.  
   <span class="new">New Feature</span>  
