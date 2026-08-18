@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Platform Admin UI - Manage Partner Portal Admin Fields <span class="ticket">ID-458</span>  
+ Platform Admins can now manage partner tiers, support URLs, and portal access directly through the UI to streamline partner onboarding.  
+  <span class="new">New Feature</span>  
+  
 ##### Sidebar updates <span class="ticket">ID-460</span>  
  We have updated the sidebar to improve your navigation experience.  
   <span class="new">New Feature</span>  
