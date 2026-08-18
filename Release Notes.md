@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Software connector print customer order pick list <span class="ticket">ID-440</span>  
+ You can now print customer order pick lists directly through the software connector to streamline your fulfillment process.  
+  <span class="new">New Feature</span>  
+  
 ##### Companion lite rebrand <span class="ticket">ID-443</span>  
  Companion Lite has been rebranded with a new name and updated visual identity.  
   <span class="new">New Feature</span>  
