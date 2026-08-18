@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Sidebar updates <span class="ticket">ID-460</span>  
+ We have updated the sidebar to improve your navigation experience.  
+  <span class="new">New Feature</span>  
+  
 ##### Software connector odp 333 printing speed <span class="ticket">ID-461</span>  
  Improved printing speeds for the ODP 333 software connector.  
   <span class="bug">Bug</span>  
