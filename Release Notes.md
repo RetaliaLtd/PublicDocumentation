@@ -1,3 +1,9 @@
+# RELEASE VERSION: 18th August 2026
+
+##### Expire all button in Gift Vouchers has no effect. <span class="ticket">ID-502</span>  
+ The "Expire All" button in Gift Vouchers now correctly expires all open vouchers based on your selected filters.  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 # RELEASE VERSION: 17th August 2026
 
 ##### inventory - item list replace checkbox with switch <span class="ticket">ID-590</span>  
