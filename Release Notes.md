@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th August 2026
 
+##### Purchase orders that are in a "Partly Received"  status are not showing in companion app <span class="ticket">ID-432</span>  
+ Purchase orders in a "Partly Received" status are now visible in the companion app, allowing you to easily locate and complete partially processed orders.  
+  <span class="bug">Bug</span> <span class="service">Companion</span>  
+  
 ##### Software connector print customer order pick list <span class="ticket">ID-440</span>  
  You can now print customer order pick lists directly through the software connector to streamline your fulfillment process.  
   <span class="new">New Feature</span>  
