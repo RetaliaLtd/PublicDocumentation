@@ -1,3 +1,9 @@
+# RELEASE VERSION: 19th August 2026
+
+##### Analysis - dimension naming <span class="ticket">ID-501</span>  
+ Dimension labels now display their actual names, such as color or size, to provide clearer context for your data.  
+  <span class="task">Task</span>  
+  
 # RELEASE VERSION: 18th August 2026
 
 ##### Discount reasons not showing on second item line price change <span class="ticket">ID-425</span>  
