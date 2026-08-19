@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th August 2026
 
+##### Software connector printed Z report is recording drawer openings for all transactions where it should only record drawer openings for "open drawer" button presses <span class="ticket">ID-74</span>  
+ The Z report now accurately tracks drawer openings by only recording manual "open drawer" actions instead of every transaction.  
+  <span class="bug">Bug</span>  
+  
 ##### Add charts to newer analysis reports <span class="ticket">ID-182</span>  
  You can now view visual data trends in Sales, Items, Movements, Customers, and Payments reports with new charts that automatically update based on your selected date range.  
   <span class="new">New Feature</span> <span class="service">Analysis</span>  
