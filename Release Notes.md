@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th August 2026
 
+##### Software connector server certificates and enrollment.dat are being corrupted when an operating system exception is thrown when renewing the certificates <span class="ticket">ID-431</span>  
+ Resolved an issue where connector certificates and enrollment data could become corrupted during the renewal process, ensuring stable connectivity and service.  
+  <span class="bug">Bug</span>  
+  
 ##### Analysis - dimension naming <span class="ticket">ID-501</span>  
  Dimension labels now display their actual names, such as color or size, to provide clearer context for your data.  
   <span class="task">Task</span>  
