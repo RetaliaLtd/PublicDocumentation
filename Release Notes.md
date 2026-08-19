@@ -1,5 +1,9 @@
 # RELEASE VERSION: 19th August 2026
 
+##### Add charts to newer analysis reports <span class="ticket">ID-182</span>  
+ You can now view visual data trends in Sales, Items, Movements, Customers, and Payments reports with new charts that automatically update based on your selected date range.  
+  <span class="new">New Feature</span> <span class="service">Analysis</span>  
+  
 ##### Software connector server certificates and enrollment.dat are being corrupted when an operating system exception is thrown when renewing the certificates <span class="ticket">ID-431</span>  
  Resolved an issue where connector certificates and enrollment data could become corrupted during the renewal process, ensuring stable connectivity and service.  
   <span class="bug">Bug</span>  
