@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th August 2026
+
+##### Analysis Dashboard Date Filter Wrong <span class="ticket">ID-618</span>  
+ We have improved reporting accuracy by ensuring date filters and transaction totals are consistent across the Analysis Dashboard and all other reports.  
+  <span class="bug">Bug</span> <span class="service">Analysis</span>  
+  
 # RELEASE VERSION: 19th August 2026
 
 ##### Software connector printed Z report is recording drawer openings for all transactions where it should only record drawer openings for "open drawer" button presses <span class="ticket">ID-74</span>  
