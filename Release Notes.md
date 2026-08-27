@@ -1,5 +1,9 @@
 # RELEASE VERSION: 27th August 2026
 
+##### Analysis - optimisation <span class="ticket">ID-608</span>  
+ Analysis reports are now faster and more reliable, with clearer error messages for timeouts and large data sets.  
+  <span class="new">New Feature</span>  
+  
 ##### Analysis Dashboard Date Filter Wrong <span class="ticket">ID-618</span>  
  We have improved reporting accuracy by ensuring date filters and transaction totals are consistent across the Analysis Dashboard and all other reports.  
   <span class="bug">Bug</span> <span class="service">Analysis</span>  
