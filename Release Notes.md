@@ -1,3 +1,9 @@
+# RELEASE VERSION: 7th September 2026
+
+##### File upload content type <span class="ticket">ID-637</span>  
+ Resolved an issue where item images failed to display in Shopify after syncing.  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 27th August 2026
 
 ##### Analysis - optimisation <span class="ticket">ID-608</span>  
