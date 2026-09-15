@@ -1,5 +1,9 @@
 # RELEASE VERSION: 15th September 2026
 
+##### Development and pilot deployment of MacOs version of Software connector/Adyen Integration for Brandy Melville <span class="ticket">ID-156</span>  
+ A new macOS version of the software connector for Adyen integration is now available to support payment processing on Mac devices.  
+  <span class="new">New Feature</span>  
+  
 ##### Non Stock items are creating negative On hand Quantities when being sold at Pos <span class="ticket">ID-519</span>  
  Fixed an issue where selling non-stock items at the point of sale incorrectly resulted in negative on-hand and available quantities in inventory reports.  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  
