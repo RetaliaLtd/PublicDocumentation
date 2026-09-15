@@ -1,3 +1,9 @@
+# RELEASE VERSION: 15th September 2026
+
+##### Profit margin % grid value doesn't correspond to block header value in Analysis Sales report <span class="ticket">ID-605</span>  
+ Resolved an inconsistency in the Analysis Sales report where the profit margin percentage in the grid did not match the value displayed in the block header.  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 7th September 2026
 
 ##### File upload content type <span class="ticket">ID-637</span>  
