@@ -1,5 +1,9 @@
 # RELEASE VERSION: 15th September 2026
 
+##### Non Stock items are creating negative On hand Quantities when being sold at Pos <span class="ticket">ID-519</span>  
+ Fixed an issue where selling non-stock items at the point of sale incorrectly resulted in negative on-hand and available quantities in inventory reports.  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Profit margin % grid value doesn't correspond to block header value in Analysis Sales report <span class="ticket">ID-605</span>  
  Resolved an inconsistency in the Analysis Sales report where the profit margin percentage in the grid did not match the value displayed in the block header.  
   <span class="bug">Bug</span>  
