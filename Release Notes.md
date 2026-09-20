@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th September 2026
+
+##### Sales Summary Reports <span class="ticket">ID-713</span>  
+ You can now access more granular sales data with new hourly summary reports available through your management portal and reporting tools.  
+  <span class="new">New Feature</span> <span class="service">BI Gateway</span> <span class="service">McpGateway</span> <span class="service">Public API</span>  
+  
 # RELEASE VERSION: 15th September 2026
 
 ##### Development and pilot deployment of MacOs version of Software connector/Adyen Integration for Brandy Melville <span class="ticket">ID-156</span>  
