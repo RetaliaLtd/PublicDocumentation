@@ -1,8 +1,8 @@
 # RELEASE VERSION: 20th September 2026
 
-##### Sales Summary Reports <span class="ticket">ID-713</span>  
- You can now access more granular sales data with new hourly summary reports available through your management portal and reporting tools.  
-  <span class="new">New Feature</span> <span class="service">BI Gateway</span> <span class="service">McpGateway</span> <span class="service">Public API</span>  
+##### Portal MFA <span class="ticket">ID-711</span>  
+ The branding on the Multi-Factor Authentication portal has been updated from K3 Imagine to Retalia.  
+  <span class="new">New Feature</span>  
   
 # RELEASE VERSION: 15th September 2026
 
