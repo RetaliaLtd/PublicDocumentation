@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th September 2026
 
+##### Sales Summary Reports <span class="ticket">ID-713</span>  
+ You can now access more granular sales data with new hourly summary reports available through your management portal and reporting tools.  
+  <span class="new">New Feature</span> <span class="service">BI Gateway</span> <span class="service">McpGateway</span> <span class="service">Public API</span>  
+  
 ##### Order value column total in Purchase orders is not being updated after cost price change <span class="ticket">ID-380</span>  
  The order value total in the Purchase Order list now accurately reflects changes made to item cost prices.  
   <span class="bug">Bug</span>  
