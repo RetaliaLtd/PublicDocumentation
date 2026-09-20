@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th September 2026
 
+##### Order value column total in Purchase orders is not being updated after cost price change <span class="ticket">ID-380</span>  
+ The order value total in the Purchase Order list now accurately reflects changes made to item cost prices.  
+  <span class="bug">Bug</span>  
+  
 ##### Weighted average cost prices are being calculated incorrectly when goods are over received <span class="ticket">ID-643</span>  
  Fixed an issue where over-receiving items led to incorrect weighted average cost calculations and inaccurate cost data in sales reports.  
   <span class="bug">Bug</span> <span class="service">Backoffice</span>  
