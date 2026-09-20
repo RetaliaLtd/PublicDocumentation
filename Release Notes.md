@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th September 2026
 
+##### Weighted average cost prices are being calculated incorrectly when goods are over received <span class="ticket">ID-643</span>  
+ Fixed an issue where over-receiving items led to incorrect weighted average cost calculations and inaccurate cost data in sales reports.  
+  <span class="bug">Bug</span> <span class="service">Backoffice</span>  
+  
 ##### Portal MFA <span class="ticket">ID-711</span>  
  The branding on the Multi-Factor Authentication portal has been updated from K3 Imagine to Retalia.  
   <span class="new">New Feature</span>  
