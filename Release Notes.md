@@ -1,5 +1,9 @@
 # RELEASE VERSION: 28th September 2026
 
+##### Gift Aid Transactions - Export Button Missing <span class="ticket">ID-722</span>  
+ You can now export your Gift Aid transaction data again using the restored export button on the Transactions table.  
+  <span class="bug">Bug</span>  
+  
 ##### Show snapshot values in pivot row headers <span class="ticket">ID-723</span>  
  Pivot table row and column headers now correctly display snapshot values, such as Value On Order, instead of showing as system objects.  
   <span class="task">Task</span>  
