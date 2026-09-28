@@ -1,3 +1,9 @@
+# RELEASE VERSION: 28th September 2026
+
+##### Show snapshot values in pivot row headers <span class="ticket">ID-723</span>  
+ Pivot table row and column headers now correctly display snapshot values, such as Value On Order, instead of showing as system objects.  
+  <span class="task">Task</span>  
+  
 # RELEASE VERSION: 20th September 2026
 
 ##### Sales Summary Reports <span class="ticket">ID-713</span>  
