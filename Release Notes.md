@@ -1,5 +1,9 @@
 # RELEASE VERSION: 28th September 2026
 
+##### Add Denso Download app to Stocktaking Import File page <span class="ticket">ID-712</span>  
+ A new Denso Download utility is now available on the Stocktaking Import File page, allowing you to generate import files directly without using third-party applications.  
+  <span class="new">New Feature</span>  
+  
 ##### Gift Aid Transactions - Export Button Missing <span class="ticket">ID-722</span>  
  You can now export your Gift Aid transaction data again using the restored export button on the Transactions table.  
   <span class="bug">Bug</span>  
