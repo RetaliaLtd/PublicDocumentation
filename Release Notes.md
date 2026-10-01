@@ -1,5 +1,9 @@
 # RELEASE VERSION: 1st October 2026
 
+##### RBO get transactions paged missing data <span class="ticket">ID-730</span>  
+ Resolved an issue where transaction lists could display duplicate or missing records when navigating through multiple pages.  
+  <span class="bug">Bug</span>  
+  
 ##### Item cost not being set on new tenants <span class="ticket">ID-738</span>  
  New items now correctly save cost information for all tenants, ensuring accurate stock takes and inventory management.  
   <span class="new">New Feature</span>  
