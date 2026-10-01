@@ -1,3 +1,9 @@
+# RELEASE VERSION: 1st October 2026
+
+##### Item cost not being set on new tenants <span class="ticket">ID-738</span>  
+ New items now correctly save cost information for all tenants, ensuring accurate stock takes and inventory management.  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 28th September 2026
 
 ##### Add Denso Download app to Stocktaking Import File page <span class="ticket">ID-712</span>  
