@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th October 2026
 
+##### Analysis - Show tenant dimension names on report columns <span class="ticket">ID-504</span>  
+ Reports now display custom dimension names instead of generic labels, featuring highlighted headers to help you easily identify specific product attributes.  
+  <span class="task">Task</span>  
+  
 ##### inventory - item list no_image_icon.svg <span class="ticket">ID-498</span>  
  The inventory item list now displays a placeholder icon for items without an image.  
   <span class="task">Task</span>  
