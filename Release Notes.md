@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th October 2026
 
+##### Analysis Item report can timeout when applying a heirarchy filter <span class="ticket">ID-789</span>  
+ Improved the performance of the Analysis Item report to ensure hierarchy filters load quickly without timing out.  
+  <span class="bug">Bug</span>  
+  
 ##### Custom Attributes List No Longer Shows ID <span class="ticket">ID-765</span>  
  The ID column has been restored to the custom attributes list, allowing you to easily view and copy IDs for use in label templates.  
   <span class="bug">Bug</span>  
