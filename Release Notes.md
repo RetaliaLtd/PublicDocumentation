@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th October 2026
 
+##### POS Currency payment not adding rounding line to payment <span class="ticket">ID-802</span>  
+ Receipts now correctly balance for foreign currency payments by automatically adding a rounding line for small overpayment differences.  
+  <span class="bug">Bug</span>  
+  
 ##### Transaction inserts <span class="ticket">ID-803</span>  
  Resolved an issue where a small percentage of transactions were failing to process, ensuring all your transactions are completed successfully.  
   <span class="bug">Bug</span>  
