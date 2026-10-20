@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th October 2026
 
+##### Refund Rounding  <span class="ticket">ID-381</span>  
+ Refund calculations have been improved to ensure accurate rounding for all processed transactions.  
+  <span class="bug">Bug</span>  
+  
 ##### POS Currency payment not adding rounding line to payment <span class="ticket">ID-802</span>  
  Receipts now correctly balance for foreign currency payments by automatically adding a rounding line for small overpayment differences.  
   <span class="bug">Bug</span>  
