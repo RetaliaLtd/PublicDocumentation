@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th October 2026
 
+##### Feature request to add html editor funcionality to Summary description in Items <span class="ticket">ID-726</span>  
+ The Item description field now features an HTML editor for enhanced formatting and consistency, and has been removed from Purchase Order PDFs to improve document readability.  
+  <span class="new">New Feature</span>  
+  
 ##### Analysis - Show tenant dimension names on report columns <span class="ticket">ID-504</span>  
  Reports now display custom dimension names instead of generic labels, featuring highlighted headers to help you easily identify specific product attributes.  
   <span class="task">Task</span>  
