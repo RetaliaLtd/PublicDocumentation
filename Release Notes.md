@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th October 2026
 
+##### New user imagine refs <span class="ticket">ID-727</span>  
+ New user invitation emails now correctly reference the Imagine brand.  
+  <span class="new">New Feature</span>  
+  
 ##### Refund Rounding  <span class="ticket">ID-381</span>  
  Refund calculations have been improved to ensure accurate rounding for all processed transactions.  
   <span class="bug">Bug</span>  
