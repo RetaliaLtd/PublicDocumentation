@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th October 2026
+
+##### Transaction inserts <span class="ticket">ID-803</span>  
+ Resolved an issue where a small percentage of transactions were failing to process, ensuring all your transactions are completed successfully.  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 1st October 2026
 
 ##### RBO get transactions paged missing data <span class="ticket">ID-730</span>  
