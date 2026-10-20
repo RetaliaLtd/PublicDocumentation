@@ -1,5 +1,9 @@
 # RELEASE VERSION: 20th October 2026
 
+##### When creating a customer put the Country per default to the stores country. <span class="ticket">ID-70</span>  
+ When creating a new customer, the language field now automatically defaults to your preferred language based on your browser settings.  
+  <span class="new">New Feature</span>  
+  
 ##### Analysis Item report can timeout when applying a heirarchy filter <span class="ticket">ID-789</span>  
  Improved the performance of the Analysis Item report to ensure hierarchy filters load quickly without timing out.  
   <span class="bug">Bug</span>  
