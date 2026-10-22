@@ -1,3 +1,9 @@
+# RELEASE VERSION: 22nd October 2026
+
+##### Recent .env update to API V 3 has caused Label printing to stop working on HW connectors <span class="ticket">ID-801</span>  
+ Resolved an issue that prevented label printing from working properly on hardware connectors.  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 20th October 2026
 
 ##### Feature request to add html editor funcionality to Summary description in Items <span class="ticket">ID-726</span>  
