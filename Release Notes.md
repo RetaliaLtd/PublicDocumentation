@@ -1,3 +1,9 @@
+# RELEASE VERSION: 27th October 2026
+
+##### Item editing improvements <span class="ticket">ID-783</span>  
+ Easily edit and manage your items with a new matrix grid and grid view editor.  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 22nd October 2026
 
 ##### Recent .env update to API V 3 has caused Label printing to stop working on HW connectors <span class="ticket">ID-801</span>  
