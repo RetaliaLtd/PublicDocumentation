@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### Add Redis backplane to Hub Microservice to support multiple replicas <span class="ticket">ID-506</span>  
+ We have enhanced the reliability of label printing notifications to ensure they are delivered consistently across all connections.  
+  <span class="new">New Feature</span>  
+  
 ##### Emailed Excel export for over-limit reports <span class="ticket">ID-629</span>  
  When a report exceeds 100,000 rows, you can now opt to receive the full Excel export via an emailed download link.  
   <span class="new">New Feature</span>  
