@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### Update Stocktake Status When Task Is Queued <span class="ticket">ID-5</span>  
+ Stocktake statuses now update immediately once initiated, giving you clearer visibility into your stocktake progress.  
+  <span class="new">New Feature</span>  
+  
 ##### POS not loading correctly when offline <span class="ticket">ID-725</span>  
  Improved POS reliability in offline mode to ensure the application loads correctly and allows access for users who have previously logged in while online.  
   <span class="new">New Feature</span>  
