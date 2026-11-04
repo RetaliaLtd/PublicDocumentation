@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### Feature request to add matrix to PPE Pricing/item prices  <span class="ticket">ID-796</span>  
+ Easily update promotional sale prices across multiple item variants simultaneously with the new pricing matrix.  
+  <span class="new">New Feature</span>  
+  
 ##### Feature request to retain filter settings in Purchase orders during browser session <span class="ticket">ID-785</span>  
  Purchase order filter and sort settings are now retained as you navigate between pages during your browser session.  
   <span class="new">New Feature</span>  
