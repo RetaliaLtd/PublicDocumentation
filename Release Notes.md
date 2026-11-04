@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### TaskMicroservice <span class="ticket">ID-633</span>  
+ You will now receive an email notification with a secure download link when your report export is ready, as well as an alert if the export encounters an issue.  
+  <span class="new">New Feature</span>  
+  
 ##### AnalysisUI <span class="ticket">ID-635</span>  
  Reports exceeding standard size limits can now be automatically emailed to you as an Excel file directly from the prompt.  
   <span class="new">New Feature</span>  
