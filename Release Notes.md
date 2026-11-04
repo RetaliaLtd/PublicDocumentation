@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### AnalysisUI <span class="ticket">ID-635</span>  
+ Reports exceeding standard size limits can now be automatically emailed to you as an Excel file directly from the prompt.  
+  <span class="new">New Feature</span>  
+  
 ##### iOS sidebar shop selection <span class="ticket">ID-719</span>  
  Fixed an issue on iOS devices where the shop selection modal failed to appear when choosing sidebar options such as POS or POS Admin.  
   <span class="new">New Feature</span>  
