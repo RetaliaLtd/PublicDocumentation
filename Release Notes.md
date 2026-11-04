@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### Emailed Excel export for over-limit reports <span class="ticket">ID-629</span>  
+ When a report exceeds 100,000 rows, you can now opt to receive the full Excel export via an emailed download link.  
+  <span class="new">New Feature</span>  
+  
 ##### TaskMicroservice <span class="ticket">ID-633</span>  
  You will now receive an email notification with a secure download link when your report export is ready, as well as an alert if the export encounters an issue.  
   <span class="new">New Feature</span>  
