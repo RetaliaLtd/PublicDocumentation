@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### [UI] Point deployed Adaptive POS sign-in at the HeadlessAPI gateway <span class="ticket">ID-740</span>  
+ Resolved an issue that prevented signing in to the Adaptive POS and enabled access to the application via the sidebar.  
+  <span class="new">New Feature</span>  
+  
 ##### Update Stocktake Status When Task Is Queued <span class="ticket">ID-5</span>  
  Stocktake statuses now update immediately once initiated, giving you clearer visibility into your stocktake progress.  
   <span class="new">New Feature</span>  
