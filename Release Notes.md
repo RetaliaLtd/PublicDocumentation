@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### Pricing module search bar doesn't return meaningful results <span class="ticket">ID-839</span>  
+ Improved search in the pricing module now allows you to easily find items using item numbers and partial text matches.  
+  <span class="bug">Bug</span>  
+  
 ##### Denso download may have an issue with some data on bht guns <span class="ticket">ID-800</span>  
  Resolved an issue where data downloads from Denso BHT scanners failed when processing 14-digit barcodes.  
   <span class="bug">Bug</span>  
