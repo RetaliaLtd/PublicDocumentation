@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### Denso download may have an issue with some data on bht guns <span class="ticket">ID-800</span>  
+ Resolved an issue where data downloads from Denso BHT scanners failed when processing 14-digit barcodes.  
+  <span class="bug">Bug</span>  
+  
 ##### Feature request to add matrix to PPE Pricing/item prices  <span class="ticket">ID-796</span>  
  Easily update promotional sale prices across multiple item variants simultaneously with the new pricing matrix.  
   <span class="new">New Feature</span>  
