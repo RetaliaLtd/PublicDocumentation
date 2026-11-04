@@ -1,5 +1,9 @@
 # RELEASE VERSION: 4th November 2026
 
+##### POS not loading correctly when offline <span class="ticket">ID-725</span>  
+ Improved POS reliability in offline mode to ensure the application loads correctly and allows access for users who have previously logged in while online.  
+  <span class="new">New Feature</span>  
+  
 ##### Pricing module search bar doesn't return meaningful results <span class="ticket">ID-839</span>  
  Improved search in the pricing module now allows you to easily find items using item numbers and partial text matches.  
   <span class="bug">Bug</span>  
