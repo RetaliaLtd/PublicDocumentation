@@ -1,3 +1,9 @@
+# RELEASE VERSION: 12th November 2026
+
+##### Adyen Failed Payments <span class="ticket">ID-848</span>  
+ Resolved an issue causing payment failures with Adyen, ensuring transactions now process reliably.  
+  <span class="bug">Bug</span>  
+  
 # RELEASE VERSION: 4th November 2026
 
 ##### Add Redis backplane to Hub Microservice to support multiple replicas <span class="ticket">ID-506</span>  
