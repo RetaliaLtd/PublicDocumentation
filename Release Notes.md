@@ -1,3 +1,9 @@
+# RELEASE VERSION: 18th November 2026
+
+##### 2FA generic support <span class="ticket">ID-891</span>  
+ You can now set up two-factor authentication using any authenticator app that supports time-based one-time passwords (TOTP).  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 12th November 2026
 
 ##### Adyen Failed Payments <span class="ticket">ID-848</span>  
