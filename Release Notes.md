@@ -1,7 +1,7 @@
 # RELEASE VERSION: 18th November 2026
 
-##### Analysis KPI values over run KPI boxes when more than 8 digits <span class="ticket">ID-729</span>  
- Fixed an issue where Analysis KPI values with more than eight digits overflowed outside their display boxes.  
+##### Feature request to add Gross Sales column and KPI to Stock Beta report <span class="ticket">ID-728</span>  
+ You can now track sales values inclusive of VAT with the new Gross Sales column and KPI in the Stock report.  
   <span class="new">New Feature</span>  
   
 ##### Feature request to add " Primary Barcode" as a column in Analysis Item report <span class="ticket">ID-732</span>  
