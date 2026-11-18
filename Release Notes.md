@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th November 2026
 
+##### Stock Lookup shows an endless spinner when a search finds no items <span class="ticket">ID-890</span>  
+ In Stock Lookup, searches with no matching items now correctly display a "No results found" message instead of an endless loading spinner.  
+  <span class="bug">Bug</span>  
+  
 ##### 2FA generic support <span class="ticket">ID-891</span>  
  You can now set up two-factor authentication using any authenticator app that supports time-based one-time passwords (TOTP).  
   <span class="new">New Feature</span>  
