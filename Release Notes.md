@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th November 2026
 
+##### Feature request to add " Primary Barcode" as a column in Analysis Item report <span class="ticket">ID-732</span>  
+ You can now include the Primary Barcode column in the Analysis Item report to streamline reporting and bulk item editing.  
+  <span class="new">New Feature</span>  
+  
 ##### Tenant Creation Timeouts <span class="ticket">ID-840</span>  
  Resolved an issue that caused timeouts when creating a new tenant with demo data.  
   <span class="new">New Feature</span>  
