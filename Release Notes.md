@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th November 2026
 
+##### POS Admin shows a white screen for users with Swedish, French, Italian, Spanish, Greek or Bulgarian display language <span class="ticket">ID-887</span>  
+ Fixed an issue where POS Admin displayed a blank screen for users whose display language was set to Swedish, French, Italian, Spanish, Greek, or Bulgarian.  
+  <span class="bug">Bug</span>  
+  
 ##### Stock Lookup shows an endless spinner when a search finds no items <span class="ticket">ID-890</span>  
  In Stock Lookup, searches with no matching items now correctly display a "No results found" message instead of an endless loading spinner.  
   <span class="bug">Bug</span>  
