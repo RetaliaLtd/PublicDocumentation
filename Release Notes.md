@@ -1,5 +1,9 @@
 # RELEASE VERSION: 18th November 2026
 
+##### Tenant Creation Timeouts <span class="ticket">ID-840</span>  
+ Resolved an issue that caused timeouts when creating a new tenant with demo data.  
+  <span class="new">New Feature</span>  
+  
 ##### POS Admin shows a white screen for users with Swedish, French, Italian, Spanish, Greek or Bulgarian display language <span class="ticket">ID-887</span>  
  Fixed an issue where POS Admin displayed a blank screen for users whose display language was set to Swedish, French, Italian, Spanish, Greek, or Bulgarian.  
   <span class="bug">Bug</span>  
