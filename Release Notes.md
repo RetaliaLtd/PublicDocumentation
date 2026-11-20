@@ -1,3 +1,9 @@
+# RELEASE VERSION: 20th November 2026
+
+##### [API] Manual discount & supervisor authorisation <span class="ticket">ID-666</span>  
+ Manual discounts exceeding your configured threshold now require supervisor approval before being applied.  
+  <span class="new">New Feature</span>  
+  
 # RELEASE VERSION: 18th November 2026
 
 ##### Feature request to add Gross Sales column and KPI to Stock Beta report <span class="ticket">ID-728</span>  
